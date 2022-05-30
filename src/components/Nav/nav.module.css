@@ -1,0 +1,26 @@
+button {
+  width: 100%;
+  background-color: #86ff2e;
+  border: 3px solid #416ce6;
+  border-radius: 20px;
+  font-weight: bold;
+  padding: 5px;
+}
+.button_login {
+  width: 100px;
+  height: 100%;
+}
+.username {
+  text-transform: uppercase;
+  color: rgb(234, 0, 255);
+  font-weight: bold;
+  height: 100%;
+}
+button:hover {
+  opacity: 90%;
+  cursor: pointer;
+}
+
+nav a {
+  color: white;
+}

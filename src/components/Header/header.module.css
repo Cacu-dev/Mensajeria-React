@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #010100;
+  padding: 2vh 2vw;
+}
+header h1 {
+  padding: 3vh 2vw;
+  color: #86ff2e;
+}
+header span {
+  padding: 3vh 2vw;
+}

@@ -1,0 +1,18 @@
+.post_title {
+  text-align: center;
+  color: #86ff2e;
+  font-size: 50px;
+}
+.main_container {
+  padding-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.button_container {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  width: 10%;
+}
