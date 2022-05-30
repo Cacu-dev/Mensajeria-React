@@ -1,0 +1,12 @@
+.modal {
+  text-align: center;
+}
+.button {
+  width: 10%;
+  height: 8vh;
+  background-color: #86ff2e;
+  border: 3px solid #416ce6;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-top: 50px;
+}

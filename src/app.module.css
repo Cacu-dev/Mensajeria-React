@@ -1,0 +1,15 @@
+html * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background: linear-gradient(to bottom right, #010101, #314a9d);
+  min-height: 100vh;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}

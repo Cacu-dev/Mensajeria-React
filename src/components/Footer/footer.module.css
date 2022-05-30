@@ -1,0 +1,12 @@
+footer {
+  height: 7vh;
+  width: 100%;
+  background: linear-gradient(#040601, #386d13);
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+}
+h3 {
+  color: #95ac86;
+  text-align: center;
+}

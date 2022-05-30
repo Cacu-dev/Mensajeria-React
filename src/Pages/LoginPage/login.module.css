@@ -1,0 +1,43 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 80px;
+}
+.login_title {
+  color: #86ff2e;
+  padding: 20px 0;
+  font-size: 50px;
+}
+
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input {
+  width: 33%;
+  height: 40px;
+  margin: 10px 0;
+  border-radius: 15px;
+  text-align: center;
+}
+::placeholder {
+  text-align: center;
+}
+
+.button_form {
+  margin-top: 15px;
+  width: 33%;
+  height: 40px;
+}
+
+.error_text {
+  width: 40%;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 0;
+  color: #ff0000;
+}

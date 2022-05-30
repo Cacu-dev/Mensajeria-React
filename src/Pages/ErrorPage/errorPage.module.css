@@ -1,0 +1,23 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 200px;
+}
+.text {
+  font-family: Roboto;
+  font-size: 40px;
+  color: #fff;
+  margin: 0;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+button {
+  height: 8vh;
+  background-color: #86ff2e;
+  border: 3px solid #416ce6;
+  border-radius: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
